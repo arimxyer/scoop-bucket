@@ -1,0 +1,22 @@
+{
+    "version": "2.0.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/arimxyer/aic/releases/download/v2.0.0/aic_2.0.0_windows_amd64.zip",
+            "bin": [
+                "aic.exe"
+            ],
+            "hash": "44ac9c849ea10a31a4f6c85ab99dafc1278a2f61c36592ba5b8ce9f4b2eccc9e"
+        },
+        "arm64": {
+            "url": "https://github.com/arimxyer/aic/releases/download/v2.0.0/aic_2.0.0_windows_arm64.zip",
+            "bin": [
+                "aic.exe"
+            ],
+            "hash": "b95d77cbb7f2d568b4e5fab29769fb1929ab18c0d45d878335b334c25f4fa81b"
+        }
+    },
+    "homepage": "https://github.com/arimxyer/aic",
+    "license": "MIT",
+    "description": "AI Coding Agent Changelog Viewer - fetch changelogs for Claude Code, Codex, OpenCode, Gemini CLI, Copilot CLI"
+}
