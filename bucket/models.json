@@ -1,12 +1,12 @@
 {
-    "version": "0.9.4",
+    "version": "0.9.5",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/arimxyer/models/releases/download/v0.9.4/models-x86_64-pc-windows-msvc.zip",
+            "url": "https://github.com/arimxyer/models/releases/download/v0.9.5/models-x86_64-pc-windows-msvc.zip",
             "bin": [
                 "models.exe"
             ],
-            "hash": "d5bbc2d5b1e9adf015cdf02320265f6956938b801bdb57e7d824d206b440f4e8"
+            "hash": "b023ff5ba98c8ee7b28f945c86f5d65bfe5ae9135f2d78f8e554ad7bcc890709"
         }
     },
     "homepage": "https://github.com/arimxyer/models",
